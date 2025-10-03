@@ -1,0 +1,9 @@
+[project]
+name = "cheating-detection"
+version = "0.1.0"
+description = "AI-Powered cheating detection for examinations"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.3.3",
+]
